@@ -1,4 +1,4 @@
-# rgoto_san# 👋 RYO（後藤 良）
+👋 RYO（後藤 良）
 
 👉 **技術者向けの詳細プロフィールはこちら**： https://github.com/rgoto-san/tech-profile
 
